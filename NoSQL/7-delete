@@ -1,3 +1,4 @@
+// Delete document(s) by name
 db.coll.deleteMany(
     {name: "Holberton school"}
 )
