@@ -1,0 +1,3 @@
+db.coll.deleteMany(
+    {name: "Holberton school"}
+)
