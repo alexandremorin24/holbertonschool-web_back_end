@@ -1,1 +1,1 @@
-print(db.school.count())
+print(db.school.countDocuments())
