@@ -1,4 +1,4 @@
 // Delete document(s) by name
-db.coll.deleteMany(
+db.school.deleteMany(
     {name: "Holberton school"}
 )
